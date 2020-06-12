@@ -5,6 +5,7 @@
       <SomeComponent class="green" />
       <div class="green">Hello</div>
     </router-link>
+    <SomeComponent class="green" />
     <SlotComponent>
       <SomeComponent class="green" />
       <div class="green">Hello</div>
